@@ -43,7 +43,7 @@ pub mod bundles {
             .system_program(&ctx.accounts.system_program)
             .program_id(&ctx.accounts.system_program.to_account_info()) // The program_id of the nested instruction (System Program)
             .instruction_data(transfer_ix.data)
-            .add_remaining_account(&ctx.accounts.asset_signer, true, true) // Not a signer - mpl-core will sign via CPI
+            .add_remaining_account(&ctx.accounts.asset_signer, false, true) // Not a signer - mpl-core will sign via CPI
             .add_remaining_account(&ctx.accounts.destination, false, true)
             .invoke()?;
 
