@@ -1,0 +1,43 @@
+[2026-01-13--18-56-13 INFO actix_server::builder] starting 5 workers
+[2026-01-13--18-56-13 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2026-01-13--18-56-13 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2026-01-13--18-56-15 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2026-01-13--18-56-22 INFO txtx::svm::deploy_program] [Recovery Instructions] - An ephemeral authority account will be created and funded to write to the buffer account.
+[2026-01-13--18-56-22 INFO txtx::svm::deploy_program] [Recovery Instructions] - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2026-01-13--18-56-22 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority public key: Ef6UQLc2Noga1CLQuQnZTiJWVvweCkLnpiUGmH79E1UJ
+[2026-01-13--18-56-22 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority secret key: [85, 181, 161, 121, 184, 225, 175, 68, 242, 117, 163, 124, 182, 20, 226, 163, 102, 27, 252, 32, 135, 22, 121, 205, 45, 5, 74, 132, 192, 78, 204, 212, 202, 234, 48, 66, 79, 127, 107, 46, 19, 67, 228, 79, 118, 116, 47, 10, 6, 236, 213, 129, 135, 134, 130, 98, 238, 32, 107, 26, 174, 2, 239, 119]
+[2026-01-13--18-56-24 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2026-01-13--18-56-24 INFO txtx::svm::deploy_program] [Recovery Instructions] - Creating program buffer account at pubkey ApsTSBZRKRbzsg1vUmsW3fVAKQUgRX21ZDdM31sARcF9
+[2026-01-13--18-56-25 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2026-01-13--18-56-27 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2026-01-13--18-56-28 INFO txtx::svm::deploy_program] Program Created - Program 3UMi7JMrQt6Dp1AqpuZE6ELAAZx2CF8WoPrF4RpxUHGx has been deployed
+[2026-01-13--18-56-29 INFO txtx::svm::deploy_program] Complete - Ephemeral authority account closed and leftover funds returned to payer
+[2026-01-13--18-56-44 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:52842.
+[2026-01-13--18-56-52 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:52858.
+[2026-01-13--18-56-52 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:52860.
+[2026-01-13--18-56-53 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:52862.
+[2026-01-13--18-56-57 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:52871.
+[2026-01-13--18-56-57 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--18-56-57 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:52872.
+[2026-01-13--18-57-09 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-02-50 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:53859.
+[2026-01-13--19-02-52 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:53868.
+[2026-01-13--19-02-53 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:53871.
+[2026-01-13--19-02-53 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:53872.
+[2026-01-13--19-02-57 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:53878.
+[2026-01-13--19-02-58 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:53879.
+[2026-01-13--19-03-03 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-03-09 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-06-23 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:54216.
+[2026-01-13--19-06-26 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:54228.
+[2026-01-13--19-06-27 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:54230.
+[2026-01-13--19-06-27 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:54231.
+[2026-01-13--19-06-30 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:54236.
+[2026-01-13--19-06-30 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:54237.
+[2026-01-13--19-06-35 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-06-40 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-06-40 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-06-40 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-06-40 INFO actix_server::accept] accept thread stopped
+[2026-01-13--19-06-40 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-06-40 INFO actix_server::worker] shutting down idle worker

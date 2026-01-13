@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-bundles = "Dkur8YBF9d87FNmueCkaRjpfgz5oQd6QQjYFxkHgHczq"
+bundles = "3UMi7JMrQt6Dp1AqpuZE6ELAAZx2CF8WoPrF4RpxUHGx"
 
 [registry]
 url = "https://api.apr.dev"

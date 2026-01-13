@@ -1,0 +1,37 @@
+[2026-01-13--19-26-41 INFO actix_server::builder] starting 5 workers
+[2026-01-13--19-26-41 INFO actix_server::server] Tokio runtime found; starting in existing Tokio runtime
+[2026-01-13--19-26-41 INFO actix_server::server] starting service: "actix-web-service-127.0.0.1:18488", workers: 5, listening on: 127.0.0.1:18488
+[2026-01-13--19-26-42 INFO parity_ws] Listening for new connections on 127.0.0.1:8900.
+[2026-01-13--19-26-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - An ephemeral authority account will be created and funded to write to the buffer account.
+[2026-01-13--19-26-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - Please save the following information in case the deployment fails and the account needs to be recovered:
+[2026-01-13--19-26-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority public key: 9S5mpHpup9FTBvjMJk8REodDnBDsuALcnUmkofJ4vfcW
+[2026-01-13--19-26-45 INFO txtx::svm::deploy_program] [Recovery Instructions] - Ephemeral authority secret key: [60, 147, 236, 47, 213, 255, 69, 55, 176, 196, 156, 146, 63, 119, 51, 75, 79, 184, 222, 181, 231, 237, 193, 12, 205, 89, 96, 217, 220, 26, 31, 131, 125, 74, 105, 128, 217, 196, 132, 228, 51, 25, 242, 236, 22, 243, 212, 220, 37, 52, 225, 120, 217, 253, 207, 76, 105, 152, 83, 199, 204, 77, 83, 251]
+[2026-01-13--19-26-46 INFO txtx::svm::deploy_program] Account Created - Ephemeral authority account created and funded to write to buffer
+[2026-01-13--19-26-47 INFO txtx::svm::deploy_program] [Recovery Instructions] - Creating program buffer account at pubkey 2NgqYf3WqKsuafdL6wK7h3cZVtxWWGfsk5eyRRWxZrX4
+[2026-01-13--19-26-47 INFO txtx::svm::deploy_program] Account Created - Program buffer account created
+[2026-01-13--19-26-49 INFO txtx::svm::deploy_program] Buffer Ready - Writing to buffer account is complete
+[2026-01-13--19-26-50 INFO txtx::svm::deploy_program] Program Created - Program 3UMi7JMrQt6Dp1AqpuZE6ELAAZx2CF8WoPrF4RpxUHGx has been deployed
+[2026-01-13--19-26-51 INFO txtx::svm::deploy_program] Complete - Ephemeral authority account closed and leftover funds returned to payer
+[2026-01-13--19-26-56 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59620.
+[2026-01-13--19-26-58 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59621.
+[2026-01-13--19-26-59 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59622.
+[2026-01-13--19-26-59 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59623.
+[2026-01-13--19-27-01 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59626.
+[2026-01-13--19-27-01 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59629.
+[2026-01-13--19-27-01 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59633.
+[2026-01-13--19-27-09 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-27-13 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-29-23 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59855.
+[2026-01-13--19-29-23 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59857.
+[2026-01-13--19-29-23 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59860.
+[2026-01-13--19-29-25 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59882.
+[2026-01-13--19-29-25 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59887.
+[2026-01-13--19-29-26 INFO parity_ws::io] Accepted a new tcp connection from 127.0.0.1:59888.
+[2026-01-13--19-29-35 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-29-38 ERROR surfpool_core::rpc::ws] Failed to get sink for subscription ID
+[2026-01-13--19-31-09 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-31-09 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-31-09 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-31-09 INFO actix_server::accept] accept thread stopped
+[2026-01-13--19-31-09 INFO actix_server::worker] shutting down idle worker
+[2026-01-13--19-31-09 INFO actix_server::worker] shutting down idle worker
